@@ -1,6 +1,6 @@
 # Arduino Sensor & Actuator Experiments
 
-A collection of four **Arduino Uno** practical experiments covering analog inputs, temperature and humidity sensing, LCD output, LEDs, buzzers, and servo control. Reorganized from the April 2026 *TP2 — Électronique embarquée et programmation Arduino* lab report.
+A collection of four **Arduino Uno** practical experiments covering analog inputs, temperature and humidity sensing, LCD output, LEDs, buzzers, and servo control. Électronique embarquée et programmation Arduino* lab report.
 
 ## Experiments
 
@@ -55,10 +55,3 @@ arduino-sensor-actuator-labs/
     └── images/
 ```
 
-## Original report and acknowledgments
-
-Based on a group lab report completed at **École des Nouvelles Sciences et Ingénierie** (April 2026). The report credits **Elmachoudi Otman, Tali Mohamed Reda, Boutenfit Badr, Ajbar Ayoub, and Elkaitouni Mohamed Amine**, supervised by **M. Baala Youssef**. The experimental photographs and Proteus diagrams in this repository were extracted from that report.
-
-The sketches were transcribed, reformatted, and lightly improved for usability; see each experiment's notes for differences. Hardware operation and compilation have **not** been independently verified on a physical Arduino.
-
-**Publishing note:** The lab report is collaborative. Check with the other contributors that you may publicly redistribute the photos, diagrams, and adapted lab material before publishing this repository. See [LICENSE-NOTICE.md](LICENSE-NOTICE.md).

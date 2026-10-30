@@ -1,0 +1,10 @@
+# Arduino IDE / generated output
+build/
+*.hex
+*.elf
+*.bin
+*.eep
+*.o
+*.d
+.DS_Store
+Thumbs.db
